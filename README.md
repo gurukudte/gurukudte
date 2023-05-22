@@ -9,8 +9,10 @@ hi, i'm [Guruprasad Kudte](https://gurukudte.github.com/), a passionate self-tau
 
 <p align="center">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/html.png" alt="html" style="vertical-align:top; margin:4px">   
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/css3.png" alt="js" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/js.svg" alt="js" style="vertical-align:top; margin:4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/css3.png" alt="css" style="vertical-align:top; margin:4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/js.png" alt="js" style="vertical-align:top; margin:4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/nodejs.png" alt="node" style="vertical-align:top; margin:4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/react.png" alt="react" style="vertical-align:top; margin:4px">
 </p>
 
 ### Visitor count
