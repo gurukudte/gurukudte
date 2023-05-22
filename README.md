@@ -7,7 +7,7 @@ hi, i'm [Guruprasad Kudte](https://gurukudte.github.com/), a passionate self-tau
 
 **languages and tools:**  
 
-<code><a href="https://iconscout.com/icons/html5" target="_blank">Free Html5 Icon</a> by <a href="https://iconscout.com/contributors/pixel-icons">Pixel Icons</a> on <a href="https://iconscout.com">IconScout</a></code>
+<code><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="html5"><path fill="#FF5722" d="m1 0 1.275 14.4L8 16l5.723-1.599L15 0z"></path><path fill="#FAFAFA" d="M12.235 4.709h-6.71l.16 1.809h6.39l-.481 5.424L8 12.945l-.003.001-3.592-1.004-.251-2.837h1.76l.131 1.472 1.953.531.002-.001 1.955-.531.204-2.291H4.082l-.474-5.341h8.783z"></path></svg></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
